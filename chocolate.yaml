@@ -1,0 +1,9 @@
+train: /content/yolo_v5_test/train/
+val: /content/yolo_v5_test/val/
+test: /content/yolo_v5_test/test/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['chocolate']
