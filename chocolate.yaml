@@ -1,5 +1,5 @@
 train: /content/yolov5/yolo_v5_test/train/
-val: /content/yolov5/yolo_v5_test/val/
+val: /content/yolov5/yolo_v5_test/validation/
 test: /content/yolov5/yolo_v5_test/test/
 
 # number of classes
