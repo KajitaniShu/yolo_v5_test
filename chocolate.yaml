@@ -3,7 +3,22 @@ val: /content/yolov5/yolo_v5_test/valid/
 test: /content/yolov5/yolo_v5_test/test/
 
 # number of classes
-nc: 1
+nc: 16
 
 # class names
-names: ['chocolate']
+names: ['dog']            #1
+names: ['person']         #2
+names: ['cat']            #3
+names: ['tv']             #4
+names: ['car']            #5
+names: ['meatballs']      #6
+names: ['marinara sauce'] #7
+names: ['tomato soup']    #8
+names: ['chicken noodle soup'] #9
+names: ['french onion soup']   #10
+names: ['chicken breast']      #11
+names: ['ribs']           #12
+names: ['pulled pork']    #13
+names: ['hamburger']      #14
+names: ['cavity']         #15
+names: ['chocolate']      #16
